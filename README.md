@@ -1,4 +1,4 @@
-# Loan-Default-Prediction
+# Loan-Default-Prediction - Credit Risk
 Vehicle Loan Default Prediction
 ## Vehicle Loan Prediction Machine Learning Model Project Summary:
 
